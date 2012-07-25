@@ -1,0 +1,9 @@
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/Play20WithNeo4J-build.iml" filepath="$PROJECT_DIR$/.idea_modules/Play20WithNeo4J-build.iml" >
+      </module>
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/Play20WithNeo4J.iml" filepath="$PROJECT_DIR$/.idea_modules/Play20WithNeo4J.iml" ></module>
+    </modules>
+  </component>
+</project>
